@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.19.0" />
+    <PackageReference Include="LiveCharts" Version="0.9.7" />
+    <PackageReference Include="Microsoft.ReportViewer.Common" Version="10.0.40219.1" />
+    <PackageReference Include="MimeKit" Version="3.4.3" />
+    <PackageReference Include="PDFsharp-MigraDoc" Version="1.50.5147" />
+  </ItemGroup>
+
+</Project>
